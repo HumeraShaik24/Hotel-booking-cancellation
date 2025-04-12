@@ -24,11 +24,6 @@ This project explores the booking and cancellation trends of two types of hotels
 ---
 
 
-## Dashboard ---- [Uploading Hotel booking,cancellation.xlsx…]()
-
----
-
-
 ## 🖼️ Visuals
 
 ### Dashboard Overview
