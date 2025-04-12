@@ -29,10 +29,16 @@ This project explores the booking and cancellation trends of two types of hotels
 ### Dashboard Overview
 
 
-![Dashboard Screenshot]-----![Screenshot (10)](https://github.com/user-attachments/assets/a5be63cc-d936-4384-b338-ce92a1269fb8)
+![Dashboard Screenshot]-----!
+
+
+[Screenshot (10)](https://github.com/user-attachments/assets/a5be63cc-d936-4384-b338-ce92a1269fb8)
 
 
 
 ### Pivot Table Breakdown
 
-![Pivot Table Screenshot]---![Screenshot (11)](https://github.com/user-attachments/assets/3e33dc19-7238-4c1a-8481-ae04f8f1ae6f)
+![Pivot Table Screenshot]---
+
+
+![Screenshot (11)](https://github.com/user-attachments/assets/3e33dc19-7238-4c1a-8481-ae04f8f1ae6f)
