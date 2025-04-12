@@ -29,10 +29,10 @@ This project explores the booking and cancellation trends of two types of hotels
 ### Dashboard Overview
 
 
-![Dashboard Screenshot]-----!
+![Dashboard Screenshot]-----
 
 
-[Screenshot (10)](https://github.com/user-attachments/assets/a5be63cc-d936-4384-b338-ce92a1269fb8)
+![Screenshot (10)](https://github.com/user-attachments/assets/a5be63cc-d936-4384-b338-ce92a1269fb8)
 
 
 
